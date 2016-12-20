@@ -1,6 +1,6 @@
 [Sky]ALS patch	Asus_backlight/ALS_Patch.txt
 [Sky]KeyboardBacklight 16Levels Patch	Asus_backlight/KeyboardBacklight_16Levels_Patch.txt
-[Sky]KeyboardBacklight Patch	Asus_backlight/KeyboardBacklight_3levels_Patch.txt
+[Sky]KeyboardBacklight 4levles Patch	Asus_backlight/KeyboardBacklight_4levels_Patch.txt
 Optional Fn key patches	Asus_backlight/Optional_Fn_key_patches.txt
 ACPI_Backlight PNLF-IGPU-Patch	Asus_backlight/Asus_ACPI_Backlight_PNLF-IGPU-Patch.txt
 Fn Brightness Keys Patch	Asus_backlight/Fn_Brightness_Keys_Patch.txt
