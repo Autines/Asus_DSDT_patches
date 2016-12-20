@@ -1,8 +1,5 @@
-[Has]ALS patch(Haswell)	Asus_backlight/ALS_Patch(Haswell).txt
 [Sky]ALS patch	Asus_backlight/ALS_Patch.txt
-[Has]KeyboardBacklight 16Levels Patch	Asus_backlight/KeyboardBacklight_16Levels_Patch(Haswell&Ivy).txt
 [Sky]KeyboardBacklight 16Levels Patch	Asus_backlight/KeyboardBacklight_16Levels_Patch.txt
-[Has]KeyboardBacklight Patch	Asus_backlight/KeyboardBacklight_Patch(Haswell&Ivy).txt
 [Sky]KeyboardBacklight Patch	Asus_backlight/KeyboardBacklight_Patch.txt
 Optional Fn key patches	Asus_backlight/Optional_Fn_key_patches.txt
 ACPI_Backlight PNLF-IGPU-Patch	Asus_backlight/Asus_ACPI_Backlight_PNLF-IGPU-Patch.txt
