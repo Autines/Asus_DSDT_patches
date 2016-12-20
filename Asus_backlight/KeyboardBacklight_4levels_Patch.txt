@@ -46,7 +46,7 @@ Method (SKBL, 1, NotSerialized)\n
                 }\n
 
                 Store (DerefOf (Index (PWKB, Local0)), Local1)\n
-                ^^PCI0.LPCB.EC0.WRAM (0x044B, Local1)\n
+                ^^PCI0.LPCB.EC0.WRAM (0x04B1, Local1)\n
                 Return (Local0)\n
             }\n
 end;
